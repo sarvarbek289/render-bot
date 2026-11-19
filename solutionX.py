@@ -7,6 +7,9 @@ import random
 import re
 import sqlite3
 import threading
+import os
+import threading
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 import telebot
 from telebot import types
@@ -2679,6 +2682,40 @@ def cleanup_stray(message):
 # =========================
 
 if __name__ == "__main__":
+    class _HealthHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.send_header("Content-Type", "text/plain; charset=utf-8")
+        self.end_headers()
+        self.wfile.write(b"OK")
+
+    def log_message(self, format, *args):
+        pass
+
+
+def _start_health_server():
+    port = int(os.getenv("PORT", "10000"))
+    server = ThreadingHTTPServer(("0.0.0.0", port), _HealthHandler)
+    threading.Thread(target=server.serve_forever, daemon=True).start()
+
+
+if __name__ == "__main__":
+    _start_health_server()
+    print(f"🚀 Multi-Level Academy bot ishga tushdi! @{BOT_USERNAME}")
+
+    while True:
+        try:
+            bot.infinity_polling(
+                skip_pending=True,
+                timeout=60,
+                long_polling_timeout=60,
+                logger_level=20
+            )
+
+        except Exception as e:
+            print(f"⚠️ Telegram bilan aloqa uzildi: {e}")
+            print("🔄 Qayta ulanishga urinish...")
+            time.sleep(5)
     print(f"🚀 Multi-Level Academy bot ishga tushdi! @{BOT_USERNAME}")
 
     while True:
