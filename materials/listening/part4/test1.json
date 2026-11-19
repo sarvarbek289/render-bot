@@ -1,0 +1,142 @@
+{
+ "id": "listening-4-01",
+ "title": "Interview with a Mountain Guide",
+ "level": "B2",
+ "minutes": 8,
+ "audio": "test1.mp3",
+ "instructions": "Listen to a radio interview and choose the correct answer (A–C) for each question (1–6).",
+ "questions": [
+  {
+   "q": "According to Marco, what makes a good guide?",
+   "options": {
+    "A": "Great physical strength",
+    "B": "Knowing when to turn back",
+    "C": "Having climbed many famous peaks"
+   },
+   "answer": "B",
+   "why": "«the ones who know when to turn back»."
+  },
+  {
+   "q": "Why did Marco decide to become a guide?",
+   "options": {
+    "A": "He went on a school trip to the mountains.",
+    "B": "His father was a guide.",
+    "C": "He read a book about climbing."
+   },
+   "answer": "A",
+   "why": "16 yoshida maktab sayohatidan keyin qaror qilgan."
+  },
+  {
+   "q": "What does Marco find most difficult in his job?",
+   "options": {
+    "A": "The physical effort",
+    "B": "Planning the routes",
+    "C": "Helping frightened clients"
+   },
+   "answer": "C",
+   "why": "«it's managing people's fear»."
+  },
+  {
+   "q": "What does he say works best with nervous clients?",
+   "options": {
+    "A": "Telling them not to worry",
+    "B": "Talking to them about other things",
+    "C": "Letting them rest for a while"
+   },
+   "answer": "B",
+   "why": "Futbol yoki bolalari haqida gaplashish «Don't worry» deyishdan yaxshiroq ishlaydi."
+  },
+  {
+   "q": "How has climate change affected his work?",
+   "options": {
+    "A": "Some routes have become dangerous or have been closed.",
+    "B": "He has fewer clients.",
+    "C": "Trips have become more expensive."
+   },
+   "answer": "A",
+   "why": "Muzliklar kichrayib, ba'zi yo'nalishlar xavfli yoki yopilgan."
+  },
+  {
+   "q": "What does Marco plan to do in the future?",
+   "options": {
+    "A": "Retire this year",
+    "B": "Become a farmer like his father",
+    "C": "Keep working, but on easier trips"
+   },
+   "answer": "C",
+   "why": "Yana bir necha yil, qisqa va oson yurishlar bilan ishlamoqchi."
+  }
+ ],
+ "script": [
+  {
+   "v": "N",
+   "t": "Part four. You will hear a radio interview with a mountain guide. For each question, choose the correct answer. Now listen to the interview."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "v": "F1",
+   "t": "Today my guest is Marco Rossi, who has worked as a mountain guide in the Alps for more than twenty years. Marco, welcome to the programme."
+  },
+  {
+   "v": "M1",
+   "t": "Thank you. It's a pleasure to be here."
+  },
+  {
+   "v": "F1",
+   "t": "Marco, most people imagine that your job is all about adventure. Is that true?"
+  },
+  {
+   "v": "M1",
+   "t": "Not really. People think I spend my days on dangerous peaks, but the truth is that most of my work is about preparation, and about saying no. Last month I cancelled three trips because the weather forecast was bad. The best guides, in my opinion, are not the bravest ones. They are the ones who know when to turn back."
+  },
+  {
+   "v": "F1",
+   "t": "How did you get started?"
+  },
+  {
+   "v": "M1",
+   "t": "My father was a farmer, and I thought I would follow him. But when I was sixteen I went on a school trip to the mountains, and that same week I decided that I would never work indoors. I trained for four years before I got my licence."
+  },
+  {
+   "v": "F1",
+   "t": "What is the most difficult part of the job?"
+  },
+  {
+   "v": "M1",
+   "t": "Honestly, it isn't the physical side. It's managing people's fear. Some clients freeze halfway up a path, and you have to calm them down without making them feel stupid. I've learnt that talking about something completely different, football or their children, for example, often works better than saying don't worry."
+  },
+  {
+   "v": "F1",
+   "t": "Has climate change affected your work?"
+  },
+  {
+   "v": "M1",
+   "t": "Enormously. The glaciers are shrinking quickly, so routes that were safe ten years ago can now be dangerous because of falling rocks. We have to change our plans every season, and some of the old classic routes are closed completely. It's sad, because I took my own daughter on one of them when she was twelve, and I won't be able to show it to my grandchildren."
+  },
+  {
+   "v": "F1",
+   "t": "Do you ever think about retiring?"
+  },
+  {
+   "v": "M1",
+   "t": "My knees tell me every morning that I should! But I think I'll keep going for a few more years, perhaps leading shorter, easier walks. I would also like to write a book for young people about mountain safety."
+  },
+  {
+   "v": "F1",
+   "t": "Marco Rossi, thank you very much."
+  },
+  {
+   "v": "M1",
+   "t": "Thank you."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "v": "N",
+   "t": "That is the end of part four."
+  }
+ ]
+}

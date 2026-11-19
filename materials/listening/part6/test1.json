@@ -1,0 +1,134 @@
+{
+ "id": "listening-6-01",
+ "title": "Social Media and Attention",
+ "level": "C1",
+ "minutes": 9,
+ "audio": "test1.mp3",
+ "instructions": "Listen to a podcast conversation and choose the correct answer (A–C) for each question (1–6).",
+ "questions": [
+  {
+   "q": "What is Helen's opinion of the belief that social media destroys attention spans?",
+   "options": {
+    "A": "It is completely wrong.",
+    "B": "It is partly true but too simple.",
+    "C": "It is entirely correct."
+   },
+   "answer": "B",
+   "why": "«It's partly fair, but I think it's an oversimplification»."
+  },
+  {
+   "q": "According to her research, what is the main problem?",
+   "options": {
+    "A": "People switch between tasks too often.",
+    "B": "People can no longer concentrate at all.",
+    "C": "Students study for too few hours."
+   },
+   "answer": "A",
+   "why": "Muammo diqqat qisqaligida emas, vazifalar orasida tez-tez o'tishda."
+  },
+  {
+   "q": "What did one of her studies find about notifications?",
+   "options": {
+    "A": "Most came from essential apps.",
+    "B": "Very few of them were answered.",
+    "C": "Many came from apps that could easily have been silenced."
+   },
+   "answer": "C",
+   "why": "Javob berilgan bildirishnomalarning yarmidan ko'pi osongina o'chirib qo'yish mumkin bo'lgan ilovalardan."
+  },
+  {
+   "q": "Why does Helen prefer the word 'habits' to 'addiction'?",
+   "options": {
+    "A": "Habits are not harmful.",
+    "B": "Most users are not clinically addicted, and habits can be changed.",
+    "C": "Addiction only affects young people."
+   },
+   "answer": "B",
+   "why": "Ko'pchilik klinik ma'noda qaram emas; odatni esa o'zgartirish mumkin."
+  },
+  {
+   "q": "Which suggestion does she describe as the most effective?",
+   "options": {
+    "A": "Keeping the phone in another room while working",
+    "B": "Deleting all social media apps",
+    "C": "Checking messages as soon as they arrive"
+   },
+   "answer": "A",
+   "why": "«keeping the phone in another room while working»."
+  },
+  {
+   "q": "How does Helen feel about the future?",
+   "options": {
+    "A": "Pessimistic",
+    "B": "Completely certain that things will change",
+    "C": "Cautiously hopeful"
+   },
+   "answer": "C",
+   "why": "«I'm cautiously optimistic»."
+  }
+ ],
+ "script": [
+  {
+   "v": "N",
+   "t": "Part six. You will hear a conversation between a radio presenter and a psychologist about social media. For each question, choose the correct answer. Now listen to the conversation."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "v": "M1",
+   "t": "With me today is Doctor Helen Brooks, a psychologist who has spent ten years studying how people use social media. Helen, there is a popular belief that social media is destroying our attention spans. Is that fair?"
+  },
+  {
+   "v": "F2",
+   "t": "It is partly fair, but I think it is an oversimplification. What we actually see in the research is not that people have lost the ability to concentrate, but that they switch between tasks far more often. A typical student, for example, checks a message about every six minutes while studying. Each switch costs a few moments of recovery, and it all adds up."
+  },
+  {
+   "v": "M1",
+   "t": "So the real problem is interruptions rather than short attention spans."
+  },
+  {
+   "v": "F2",
+   "t": "Exactly. And the interruptions are often self-inflicted. In one of our studies, more than half of the notifications that participants responded to came from apps which they could easily have silenced."
+  },
+  {
+   "v": "M1",
+   "t": "Surely the companies are to blame as well. These apps are designed to be addictive."
+  },
+  {
+   "v": "F2",
+   "t": "Designers certainly use techniques to keep us scrolling. Endless feeds, for instance, remove the natural stopping points. But I am cautious about the word addiction. Most users do not suffer in the clinical sense. They simply find it hard to resist a convenient source of small rewards. That is why I prefer to talk about habits, because habits can be changed."
+  },
+  {
+   "v": "M1",
+   "t": "What practical changes would you suggest?"
+  },
+  {
+   "v": "F2",
+   "t": "The most effective thing I have seen is surprisingly simple: keeping the phone in another room while working. People tell me it feels strange for the first few days, and then they realise how often they reached for it automatically. Another idea is to decide in advance when to check messages, say twice an hour, rather than reacting to every alert."
+  },
+  {
+   "v": "M1",
+   "t": "And do you think the situation will improve?"
+  },
+  {
+   "v": "F2",
+   "t": "I am cautiously optimistic. Younger people, interestingly, are becoming more critical of these platforms than their parents are, and some of them are choosing to use simple phones at the weekend. Whether that turns into a wider cultural shift remains to be seen."
+  },
+  {
+   "v": "M1",
+   "t": "Doctor Brooks, thank you very much for joining us."
+  },
+  {
+   "v": "F2",
+   "t": "My pleasure."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "v": "N",
+   "t": "That is the end of part six."
+  }
+ ]
+}

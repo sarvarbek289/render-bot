@@ -1,0 +1,108 @@
+{
+ "id": "listening-5-01",
+ "title": "Why Are Teenagers So Tired?",
+ "level": "B2",
+ "minutes": 6,
+ "audio": "test1.mp3",
+ "instructions": "Listen to a lecture and choose the correct answer (A–C) for each question (1–5).",
+ "questions": [
+  {
+   "q": "What does the speaker say about mobile phones?",
+   "options": {
+    "A": "They are the only reason students are tired.",
+    "B": "They are one of several causes.",
+    "C": "They have no effect on sleep."
+   },
+   "answer": "B",
+   "why": "Kechqurungi ekranlar «do play a role», lekin biologik sabab ham bor."
+  },
+  {
+   "q": "What happens to the body clock during adolescence?",
+   "options": {
+    "A": "It shifts later.",
+    "B": "It shifts earlier.",
+    "C": "It stays the same."
+   },
+   "answer": "A",
+   "why": "Yoshlar kechroq uyqusiraydi va kechroq uyg'onadi."
+  },
+  {
+   "q": "What was a result of the experiment in the English city?",
+   "options": {
+    "A": "Attendance became worse.",
+    "B": "Students felt more stressed.",
+    "C": "Exam results improved."
+   },
+   "answer": "C",
+   "why": "Baholar taxminan 10% ga oshdi, davomat yaxshilandi."
+  },
+  {
+   "q": "Why should students avoid sleeping until noon on Sunday?",
+   "options": {
+    "A": "They will miss lunch.",
+    "B": "It confuses the body clock.",
+    "C": "It is bad for the heart."
+   },
+   "answer": "B",
+   "why": "«it confuses the body clock»."
+  },
+  {
+   "q": "How long can caffeine stay in the body?",
+   "options": {
+    "A": "About three hours",
+    "B": "About five hours",
+    "C": "Up to eight hours"
+   },
+   "answer": "C",
+   "why": "«up to eight hours»."
+  }
+ ],
+ "script": [
+  {
+   "v": "N",
+   "t": "Part five. You will hear a short talk about sleep. For each question, choose the correct answer. Now listen to the talk."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "v": "F2",
+   "t": "Good afternoon, everyone. Today I want to talk about sleep, and in particular about why teenagers and young adults seem to be so tired all the time. Many people blame mobile phones, and it is true that screens late at night do play a role. However, research from the last decade points to a biological reason as well."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F2",
+   "t": "During adolescence, the body clock shifts. Young people naturally feel sleepy later in the evening, at around eleven o'clock, and they wake up later in the morning. The problem is that most schools and universities start early, often before eight, so students are forced to wake up at a time when their brains still want to sleep."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F2",
+   "t": "One city in the north of England experimented with this by moving the school start time from half past eight to ten o'clock. The results were striking. Attendance improved, and students reported feeling less stressed. Exam grades rose by about ten per cent in the first year, although the researchers admit that other factors may have contributed."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F2",
+   "t": "So what can students do? The first piece of advice is to keep regular hours, even at weekends. Sleeping until noon on Sunday may feel good, but it confuses the body clock. Secondly, avoid caffeine after the afternoon. Many people do not realise that coffee can stay in the body for up to eight hours. And finally, switch off screens an hour before bed, or at least use the night mode."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F2",
+   "t": "Adults need seven to nine hours of sleep a night, and teenagers need even more, about nine hours. Most do not get that much, and it affects not only their studies but also their mood and health. Thank you. Now, are there any questions?"
+  },
+  {
+   "pause": 4
+  },
+  {
+   "v": "N",
+   "t": "That is the end of part five."
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "id": "listening-1-01",
+ "title": "Six Short Conversations",
+ "level": "B1",
+ "minutes": 8,
+ "audio": "test1.mp3",
+ "instructions": "You will hear six short conversations or announcements. For each question (1–6), choose the correct answer (A–C).",
+ "questions": [
+  {
+   "q": "Which platform does the airport train leave from now?",
+   "options": {
+    "A": "Platform two",
+    "B": "Platform five",
+    "C": "Platform nine"
+   },
+   "answer": "B",
+   "why": "«It leaves from platform five now» — avval 2-platformadan ketardi, endi 5-dan."
+  },
+  {
+   "q": "What does Tom want to do?",
+   "options": {
+    "A": "Cancel the meeting",
+    "B": "Meet earlier than planned",
+    "C": "Meet later than planned"
+   },
+   "answer": "C",
+   "why": "U soat 3 o'rniga soat 5 da uchrashishni so'rayapti."
+  },
+  {
+   "q": "What will the woman have as her main course?",
+   "options": {
+    "A": "Chicken",
+    "B": "Fish",
+    "C": "Lamb"
+   },
+   "answer": "A",
+   "why": "Baliq tugagan, qo'y go'shtini yoqtirmaydi — tovuqni tanladi."
+  },
+  {
+   "q": "What is the problem with the jacket?",
+   "options": {
+    "A": "The colour is wrong.",
+    "B": "It is too small.",
+    "C": "It is damaged."
+   },
+   "answer": "B",
+   "why": "«It's just too small for me» — rangi yoqadi, shikastlanmagan."
+  },
+  {
+   "q": "Why will the library close early today?",
+   "options": {
+    "A": "Because of a public holiday",
+    "B": "Because of repair work",
+    "C": "Because of a staff meeting"
+   },
+   "answer": "C",
+   "why": "«all staff members have to attend a meeting»."
+  },
+  {
+   "q": "What will the friends do on Sunday?",
+   "options": {
+    "A": "Have a picnic",
+    "B": "Visit a museum",
+    "C": "Stay at home"
+   },
+   "answer": "A",
+   "why": "Shanba kuni muzey, yakshanba kuni piknik."
+  }
+ ],
+ "script": [
+  {
+   "v": "N",
+   "t": "Listening. Part one. You will hear six short recordings. For each question, choose the correct answer. Now you will hear the first recording."
+  },
+  {
+   "pause": 2
+  },
+  {
+   "v": "N",
+   "t": "Question one."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F1",
+   "t": "Excuse me, does the train to the airport still leave from platform two?"
+  },
+  {
+   "v": "M1",
+   "t": "Not any more. It used to, but they changed it last week. It leaves from platform five now. Platform nine is for the trains to the north."
+  },
+  {
+   "v": "F1",
+   "t": "Platform five. Thank you very much!"
+  },
+  {
+   "v": "M1",
+   "t": "No problem. You had better hurry, though. It leaves in ten minutes."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Question two."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "M2",
+   "t": "Hi Anna, it's Tom. I'm afraid I can't make it at three o'clock, because I have a dentist appointment. Could we meet at five instead? Call me back when you get this message. Bye for now."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Question three."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "M1",
+   "t": "Are you ready to order, madam?"
+  },
+  {
+   "v": "F1",
+   "t": "Yes. I'll have the tomato soup to start, and then the grilled fish."
+  },
+  {
+   "v": "M1",
+   "t": "I'm very sorry, but the fish is finished for today. We have chicken or lamb."
+  },
+  {
+   "v": "F1",
+   "t": "Hmm. I don't really like lamb. I'll take the chicken, please."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Question four."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F2",
+   "t": "Hello, I'd like to return this jacket, please."
+  },
+  {
+   "v": "M2",
+   "t": "Of course. Is there something wrong with it?"
+  },
+  {
+   "v": "F2",
+   "t": "No, it isn't damaged, and I like the colour. It's just too small for me."
+  },
+  {
+   "v": "M2",
+   "t": "Do you have the receipt?"
+  },
+  {
+   "v": "F2",
+   "t": "I'm afraid not, but I paid by card."
+  },
+  {
+   "v": "M2",
+   "t": "That's fine. I can find it on the computer. Would you like the same jacket in a larger size?"
+  },
+  {
+   "v": "F2",
+   "t": "Yes, please."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Question five."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F1",
+   "t": "Attention, please. This is an announcement for all library users. Today the library will close at six o'clock instead of eight, because all of the staff have to attend a meeting. Books can still be returned using the box outside the main door. The library will open as usual tomorrow at nine. Thank you."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Question six."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "M1",
+   "t": "Have you seen the weather forecast for the weekend?"
+  },
+  {
+   "v": "F3",
+   "t": "Yes. It's going to rain on Saturday, so I think we should visit the new museum."
+  },
+  {
+   "v": "M1",
+   "t": "Good idea. And what about Sunday?"
+  },
+  {
+   "v": "F3",
+   "t": "Sunny and warm. We could take some sandwiches and have a picnic by the river."
+  },
+  {
+   "v": "M1",
+   "t": "Perfect. Let's do that."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "v": "N",
+   "t": "That is the end of part one."
+  }
+ ]
+}

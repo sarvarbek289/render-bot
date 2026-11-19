@@ -1,0 +1,76 @@
+{
+ "id": "reading-3-01",
+ "title": "The Dos and Don'ts of Writing an Effective CV",
+ "level": "B2",
+ "minutes": 10,
+ "instructions": "Read the text and choose the correct heading for each paragraph (1–6) from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+ "blocks": [
+  {
+   "title": "Paragraph 1",
+   "text": "Don't hold anything back but make sure that your achievements are fantastic and not just that you are a fantastic communicator! Typically a CV should have 10 achievements on it that cover the main successes in your career to get the reader's attention."
+  },
+  {
+   "title": "Paragraph 2",
+   "text": "Make sure you include other skills that could set you apart from other candidates, such as languages and IT skills."
+  },
+  {
+   "title": "Paragraph 3",
+   "text": "Go through your CV thoroughly for correct spelling and grammar - spotting errors is a quick and easy way of weeding out weaker candidates when faced with a mountain of CVs to read. Don't just rely on your computer's spellchecker but get someone else to proof it - you may have spelt a word correctly but used it in the wrong place."
+  },
+  {
+   "title": "Paragraph 4",
+   "text": "Prioritise the content of your CV and detail the most relevant information first. Start with a hard-hitting personal profile that avoids clichés such as 'hard-working, team player with excellent communication skills'. Make sure that all your career history is punchy and to the point with qualified and quantified successes."
+  },
+  {
+   "title": "Paragraph 5",
+   "text": "It is simply not true that the bigger the lies you put on your CV then the better the job you will get. Most employers are not fooled by creative embellishments and if you do manage to get a job based on this you could be let go of pretty quickly which won't look good on your CV."
+  },
+  {
+   "title": "Paragraph 6",
+   "text": "An employer really doesn't need or want to know all the one-day training courses you have ever been on. Keep information relevant and to the point."
+  }
+ ],
+ "bank_title": "Headings",
+ "bank": {
+  "A": "Capture immediate attention",
+  "B": "Concentrate on the quality not quantity of your achievements",
+  "C": "Rise above the competition",
+  "D": "Check, check and check again",
+  "E": "Don't expand the truth",
+  "F": "Don't list everything",
+  "G": "Use a confident tone and positive language",
+  "H": "Don't include a photo"
+ },
+ "questions": [
+  {
+   "q": "Paragraph 1",
+   "answer": "B",
+   "why": "Sifatli yutuqlar muhim, miqdori emas («achievements are fantastic») — B."
+  },
+  {
+   "q": "Paragraph 2",
+   "answer": "C",
+   "why": "Boshqa nomzodlardan ajralib turish («set you apart») — C."
+  },
+  {
+   "q": "Paragraph 3",
+   "answer": "D",
+   "why": "Imlo va grammatikani qayta-qayta tekshiring («Go through your CV thoroughly») — D."
+  },
+  {
+   "q": "Paragraph 4",
+   "answer": "A",
+   "why": "Eng muhim ma'lumot birinchi bo'lib diqqatni tortadi («Start with a hard-hitting personal profile») — A."
+  },
+  {
+   "q": "Paragraph 5",
+   "answer": "E",
+   "why": "«It is simply not true that the bigger the lies...» — yolg'on yozmang, ya'ni haqiqatni bo'rttirmang — E."
+  },
+  {
+   "q": "Paragraph 6",
+   "answer": "F",
+   "why": "Barcha kurslarni sanab o'tirmang («doesn't need to know all the... courses») — F."
+  }
+ ]
+}

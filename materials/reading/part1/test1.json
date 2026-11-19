@@ -1,0 +1,57 @@
+{
+ "id": "reading-1-01",
+ "title": "Summer Plans",
+ "level": "B1",
+ "minutes": 8,
+ "instructions": "Read the text. Fill in each gap (1–6) with ONE word from the box. You must use a word which is somewhere in the rest of the text. There are two extra words that you do not need.",
+ "blocks": [
+  {
+   "title": "Summer Plans",
+   "text": "I usually teach English at a language school in the summer. I often can't enjoy the (1) ______ because I am so busy. So next summer, I'm not planning to work. Instead, I'm going to have a proper summer holiday. I'm going to buy a campervan and drive around Ireland. I'm going to (2) ______ lots of beautiful beaches and learn to surf! I'm mostly going to travel alone, but I will visit friends. One friend, Cathy, is a school teacher, so she has a long summer (3) ______, so hopefully, we will spend a week or two together. Another Irish friend, Joe, has a new house there, so I'll stay with him for a few days and help him paint the rooms.\n\nLast year, I did a surfing instructor course, and I spent the summer teaching people to (4) ______. It was great! I was in the sea and sun all day, and every evening, my friends and I had a barbecue on the beach. The surf school asked me to return this summer, (5) ______ I'm not going to do that. Last autumn, I learned to scuba dive, and I'm going to do diving (6) ______ course soon."
+  }
+ ],
+ "bank_title": "Word bank",
+ "bank": {
+  "A": "but",
+  "B": "holiday",
+  "C": "instructor",
+  "D": "paint",
+  "E": "stay",
+  "F": "summer",
+  "G": "surf",
+  "H": "visit"
+ },
+ "questions": [
+  {
+   "q": "Gap 1",
+   "answer": "F",
+   "why": "«enjoy the summer» — matnning boshida «in the summer» deyilgan; yoz faslidan bahramand bo'la olmayapti."
+  },
+  {
+   "q": "Gap 2",
+   "answer": "H",
+   "why": "«I'm going to visit lots of beautiful beaches» — 'to' dan keyin fe'l (visit) keladi."
+  },
+  {
+   "q": "Gap 3",
+   "answer": "B",
+   "why": "«a long summer holiday» — maktab o'qituvchisining uzoq yozgi ta'tili."
+  },
+  {
+   "q": "Gap 4",
+   "answer": "G",
+   "why": "«teaching people to surf» — surfing instructor kursi haqida gap ketyapti."
+  },
+  {
+   "q": "Gap 5",
+   "answer": "A",
+   "why": "Qarama-qarshilik: «asked me to return, but I'm not going to» — 'but' kerak."
+  },
+  {
+   "q": "Gap 6",
+   "answer": "C",
+   "why": "«diving instructor course» — oldin «surfing instructor course» deyilgan."
+  }
+ ],
+ "answer_style": "dropdown"
+}

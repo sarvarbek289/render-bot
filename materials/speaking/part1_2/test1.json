@@ -1,0 +1,11 @@
+{
+  "id": "speaking-1-10",
+  "title": "Part 1.2",
+  "kind": "questions",
+  "image": "speaking/part1_2/part1_2.jpg",
+  "questions": [
+    "Which do you think is better for working in teams: working in an office or from home?",
+    "Do you think companies save money if employees work from home?"
+  ],
+  "expected_seconds": 90
+}

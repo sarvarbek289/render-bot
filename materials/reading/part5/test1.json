@@ -1,0 +1,81 @@
+{
+ "id": "reading-5-01",
+ "title": "The Rise of Junk Food",
+ "level": "C1",
+ "minutes": 12,
+ "instructions": "Read the text. For questions 1–4, choose the word that correctly completes each sentence (it is ONE WORD from the text). For questions 5–6, choose the correct answer (A–D).",
+ "blocks": [
+  {
+   "title": "The Rise of Junk Food",
+   "text": "It is astonishing to contemplate how popular junk food has become, given that the first fast food restaurant in the US only opened its doors a mere century ago. Since then, high-calorie processed meals have taken over the world, with multinational restaurant chains aggressively chasing levels of growth that show no signs of slowing down. Much of this expansion is currently taking place in less developed parts of the world, where the potential for customer loyalty is seen as easier to develop, but it is not just in these areas where such growth is visible. Indeed, a recent study from the University of Cambridge found that the number of takeaways in the United Kingdom rose by 45 percent between 1997 and 2015. This explosion in the takeaway trade is not an inevitable outcome of what we call 'progress'. On the contrary, it comes in the face of an increasing body of evidence that we are heading for dietary disaster.\n\nYet, despite nutrition experts' best efforts to educate people about the dangers of a diet filled with processed food, it appears that the world doesn't want to listen. Medical specialists point out that, although eating too much unhealthy food is likely to be as dangerous in the long-term as smoking, regular consumption of high-calorie food has somehow become more socially acceptable than ever. While local authorities in some towns and cities have taken measures to combat the rise in this trend by limiting the number of fast food outlets permitted to be open simultaneously, critics argue that people have every right to make their own decisions about what they eat and how they choose to live. However, the way in which we have come to binge on takeaways isn't only a personal issue of weight gain, or of buying larger clothes. The consequences of mass overconsumption should strike fear into the hearts of everyone.\n\nResearch suggests that there is an evolutionary reason as to why people compulsively overeat - it is simply part of our innate behavior. When humans evolved, we did not have the abundant supply of food that we enjoy today, and so eating was more about survival than pleasure. We became more likely to opt for high-calorie foods, with high-fat content, that could sustain us through cold winters when the supply of nourishment became sparse. This explains why a 600-calorie burger seems so attractive: it awakens our primal side, makes us feel well fed, and inspires contentment. Processed food stimulates the reward response in our brains, so we feel compelled to overeat, and not necessarily in a healthy way. Junk food acts as a trigger for chemicals such as the 'feel-good' dopamine to flood through the brain and induce a sensation of happiness. Meanwhile, high amounts of sodium (one of the chemicals in salt and other ingredients of fast food) cause a huge surge in blood sugar, pushing it to unnatural levels.\n\nThis occurs within the first few eating of a high-calorie meal. From there, routinely processing such high levels of sodium is impossible, and the body's organs are pushed beyond their natural working capacity in trying to do so. The kidneys cannot remove all the excess salt from the blood, and thus an overdose of sodium causes the heart to pump faster while transporting blood through the veins. There are multiple dangers of high blood pressure, especially for the elderly and in the long-term. Sodium taken on in such quantities can lead to dehydration, a condition whose symptoms are extremely similar to hunger, and this leads to a painful truth: as soon as you have finished your junk food meal, you immediately start to crave another. Thereafter, the body starts to digest the food. Usually, this takes between four and 12 hours, but with fast food, where the fat content is so much higher, the same process lasts at least three days."
+  }
+ ],
+ "questions": [
+  {
+   "q": "In developing countries, gaining the (1) ______ of customers is seemed to be much simple.",
+   "options": {
+    "A": "growth",
+    "B": "loyalty",
+    "C": "progress",
+    "D": "contentment"
+   },
+   "answer": "B",
+   "why": "«the potential for customer loyalty is seen as easier to develop» — mijozlar sodiqligi (loyalty)."
+  },
+  {
+   "q": "There are clear facts that the widespread takeaway business is resulting in the (2) ______ failure among people.",
+   "options": {
+    "A": "evolutionary",
+    "B": "personal",
+    "C": "dietary",
+    "D": "natural"
+   },
+   "answer": "C",
+   "why": "«we are heading for dietary disaster» — ovqatlanish (dietary) bilan bog'liq halokat."
+  },
+  {
+   "q": "The bad impacts of eating unhealthy food regularly might be hazardous like the adverse effects of (3) ______.",
+   "options": {
+    "A": "sodium",
+    "B": "dehydration",
+    "C": "hunger",
+    "D": "smoking"
+   },
+   "answer": "D",
+   "why": "«as dangerous in the long-term as smoking» — chekish kabi xavfli."
+  },
+  {
+   "q": "The absence of enough food (4) ______ in the past is directly linked with the overeating habits of current people.",
+   "options": {
+    "A": "pleasure",
+    "B": "supply",
+    "C": "winters",
+    "D": "reward"
+   },
+   "answer": "B",
+   "why": "«we did not have the abundant supply of food» — oziq-ovqat yetishmovchiligi (supply)."
+  },
+  {
+   "q": "Which solution was offered by the government to decrease the consumption of unhealthy food?",
+   "options": {
+    "A": "to show more advertisements related to the consequences of eating much fast food.",
+    "B": "to increase the price of high-calorie fast foods like burgers.",
+    "C": "to inspect carefully the proportion of chemicals in junk foods.",
+    "D": "to put the restriction on the number of fast food restaurants opened together."
+   },
+   "answer": "D",
+   "why": "«limiting the number of fast food outlets permitted to be open simultaneously» — bir vaqtda ochiq bo'ladigan nuqtalar sonini cheklash."
+  },
+  {
+   "q": "What is the effect of dehydration on people?",
+   "options": {
+    "A": "People don't feel full despite the amount of junk food they consume.",
+    "B": "The process of digesting food takes more time than usual.",
+    "C": "It leads to increased levels of blood sugar.",
+    "D": "The number of heartbeats increases under dehydration."
+   },
+   "answer": "A",
+   "why": "Suvsizlanish belgilari ochlikka o'xshaydi — ovqatdan keyin ham yana yegingiz keladi, to'ymaysiz."
+  }
+ ]
+}

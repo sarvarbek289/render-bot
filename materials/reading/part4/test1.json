@@ -1,0 +1,109 @@
+{
+ "id": "reading-4-01",
+ "title": "The Penny Black",
+ "level": "B2",
+ "minutes": 12,
+ "instructions": "Read the text. For questions 1–4, choose the correct answer (A–D). For questions 5–9, decide if the statements agree with the information given in the text: A) True, B) False, C) No Information.",
+ "blocks": [
+  {
+   "title": "The Penny Black",
+   "text": "It might not have looked very impressive, but the Penny Black, now 170 years old, was the first stamp to be created and it launched the modern postal system in Britain.\n\nBefore 1840 and the arrival of the Penny Black, you had to be rich and patient to use the Royal Mail. Delivery was charged according to the miles travelled and the number of sheets of paper used; a 2-page letter sent from Edinburgh to London, for example, would have cost 2 shillings, or more than £7 in today's money. And when the top-hatted letter carrier came to deliver it, it was the recipient who had to pay for the postage. Letter writers employed various ruses to reduce the cost, doing everything possible to cram more words onto a page. Nobody bothered with heavy envelopes; instead, letters would be folded and sealed with wax. You then had to find a post office - there were no pillar boxes - and hope your addressee didn't live in one of the several rural areas which were not served by the system. If you were lucky, your letter would arrive (it could take days) without being read or censored.\n\nThe state of mail had been causing concern throughout the 1830s, but it was Rowland Hill, an inventor, teacher and social reformer from Kidderminster, who proposed a workable plan for change. Worried that a dysfunctional, costly service would stifle communication just as Britain was in the swing of its second industrial revolution, he believed reform would ease the distribution of ideas and stimulate trade and business, delivering the same promise as the new railways.\n\nHill's proposal for the penny post, which meant any letter weighing less than half an ounce (14 grams) could be sent anywhere in Britain for about 30p in today's money, was so radical that the Postmaster General, Lord Lichfield, said, 'Of all the wild and visionary schemes which I ever heard of, it is the most extravagant.' Lord Lichfield spoke for an establishment not convinced of the need for poor people to post anything. But merchants and reformers backed Hill. Soon the government told him to make his scheme work. And that meant inventing a new type of currency.\n\nHill quickly settled on 'a bit of paper covered at the back with a glutinous wash which the user might, by applying a little moisture, attach to the back of a letter'. Stamps would be printed in sheets of 240 that could be cut using scissors or a knife. Perforations would not arrive until 1854. The idea stuck, and in August 1839 the Treasury launched a design competition open to 'all artists, men of science and the public in general'. The new stamp would need to be resistant to forgery, and so it was a submission by one Mr Cheverton that Hill used as the basis for one of the most striking designs in history. Cheverton, who worked as a sculptor and an engineer, determined that a portrait of Queen Victoria, engraved for a commemorative coin when she was a 15-year-old princess, was detailed enough to make copying difficult, and recognizable enough to make fakes easy to spot. The words 'Postage' and 'One Penny' were added alongside flourishes and ornamental stars. Nobody thought to add the word 'Britain', as it was assumed that the stamps would solely be put to domestic use."
+  }
+ ],
+ "questions": [
+  {
+   "q": "One of the characteristics of the postal service before the 1840s was that",
+   "options": {
+    "A": "postmen were employed by various organizations.",
+    "B": "letters were restricted to a certain length.",
+    "C": "distance affected the price of postage.",
+    "D": "the price of delivery kept going up."
+   },
+   "answer": "C",
+   "why": "«Delivery was charged according to the miles travelled» — narx masofaga bog'liq edi."
+  },
+  {
+   "q": "Letter writers in the 1830s",
+   "options": {
+    "A": "were not responsible for the cost of delivery.",
+    "B": "tried to fit more than one letter into an envelope.",
+    "C": "could only send letters to people living in cities.",
+    "D": "knew all letters were automatically read by postal staff."
+   },
+   "answer": "A",
+   "why": "«it was the recipient who had to pay for the postage» — to'lovni xat oluvchi qilgan."
+  },
+  {
+   "q": "What does the text say about Hill in the 1830s?",
+   "options": {
+    "A": "He was the first person to express concern about the postal system.",
+    "B": "He considered it would be more efficient for mail to be delivered by rail.",
+    "C": "He felt that postal service reform was necessary for commercial development.",
+    "D": "His plan received support from all the important figures of the day."
+   },
+   "answer": "C",
+   "why": "Hill islohot «stimulate trade and business» ga yordam beradi deb hisoblagan."
+  },
+  {
+   "q": "What did Cheverton say about the design of a new stamp?",
+   "options": {
+    "A": "Any person can copy and use the design easily.",
+    "B": "Local people have never seen Queen Victoria lively.",
+    "C": "Counterfeit coins could easily be detected.",
+    "D": "It is useless to add the word \"Britain\" on the stamp."
+   },
+   "answer": "C",
+   "why": "Malikaning portreti nusxalashni qiyinlashtiradi va soxta narsani osongina aniqlashga yordam beradi."
+  },
+  {
+   "q": "There was a fixed price for the delivery of letters before 1840.",
+   "options": {
+    "A": "True",
+    "B": "False",
+    "C": "No Information"
+   },
+   "answer": "B",
+   "why": "Narx masofa va varaqlar soniga qarab o'zgargan — qat'iy narx bo'lmagan."
+  },
+  {
+   "q": "In the past, it was not possible to send letters to all parts of the country.",
+   "options": {
+    "A": "True",
+    "B": "False",
+    "C": "No Information"
+   },
+   "answer": "A",
+   "why": "«several rural areas which were not served by the system» — ba'zi qishloq joylariga xizmat yetmagan."
+  },
+  {
+   "q": "Rowland Hill proposed to reduce the cost of envelopes to encourage trade and business.",
+   "options": {
+    "A": "True",
+    "B": "False",
+    "C": "No Information"
+   },
+   "answer": "C",
+   "why": "Matnda konvertlar narxini kamaytirish haqida hech narsa aytilmagan."
+  },
+  {
+   "q": "Lord Lichfield and all other people were against Hill's proposal about the new postal system.",
+   "options": {
+    "A": "True",
+    "B": "False",
+    "C": "No Information"
+   },
+   "answer": "B",
+   "why": "«merchants and reformers backed Hill» — hamma qarshi bo'lmagan."
+  },
+  {
+   "q": "The main purpose of designing a new stamp was to make it difficult to counterfeit.",
+   "options": {
+    "A": "True",
+    "B": "False",
+    "C": "No Information"
+   },
+   "answer": "A",
+   "why": "«The new stamp would need to be resistant to forgery» — soxtalashtirishga chidamli bo'lishi kerak edi."
+  }
+ ]
+}

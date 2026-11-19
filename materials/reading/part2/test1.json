@@ -1,0 +1,74 @@
+{
+ "id": "reading-2-01",
+ "title": "Evening Classes at the Community Centre",
+ "level": "B1",
+ "minutes": 8,
+ "instructions": "Read the descriptions of five people (1–5) and the advertisements (A–G). Choose the advertisement that best matches each person's needs. There are two extra advertisements. Use each advertisement only once.",
+ "blocks": [
+  {
+   "title": "A. Cooking for Beginners",
+   "text": "Tuesday evenings, 6–8 pm. Learn to prepare 20 simple, healthy dishes. All ingredients are provided. No experience necessary."
+  },
+  {
+   "title": "B. Photography Walk",
+   "text": "Saturday mornings. Bring your own camera or phone and learn how to take better pictures of city life. Free for students under 18."
+  },
+  {
+   "title": "C. Conversation Club",
+   "text": "Thursdays at 7 pm. Practise speaking English with friendly volunteers. The club is free. Just come and talk!"
+  },
+  {
+   "title": "D. Yoga for Busy People",
+   "text": "Short 30-minute classes at lunchtime, Monday to Friday, 12:30. Mats are available. Perfect for office workers who want to relax during the working day."
+  },
+  {
+   "title": "E. Computer Skills for Seniors",
+   "text": "Wednesday afternoons. Learn to use email, make video calls and shop online. Small groups and patient teachers."
+  },
+  {
+   "title": "F. Kids' Art Workshop",
+   "text": "Sundays at 10 am. Painting and drawing for children aged 6–12. Parents can enjoy a coffee in our café while they wait."
+  },
+  {
+   "title": "G. Beginner Guitar",
+   "text": "Friday evenings, group lessons of eight students. Guitars can be rented from us for a small fee, so you don't need to buy one."
+  }
+ ],
+ "bank": {
+  "A": "Cooking for Beginners",
+  "B": "Photography Walk",
+  "C": "Conversation Club",
+  "D": "Yoga for Busy People",
+  "E": "Computer Skills for Seniors",
+  "F": "Kids' Art Workshop",
+  "G": "Beginner Guitar"
+ },
+ "questions": [
+  {
+   "q": "Dilnoza works in an office in the city centre and has only a short break at lunchtime. She wants to do some exercise to reduce her stress.",
+   "answer": "D",
+   "why": "Yoga for Busy People — tushlikda 30 daqiqalik darslar, ofis xodimlari uchun."
+  },
+  {
+   "q": "Bobur is 17 and loves photography, but he has no money to spend on his hobby.",
+   "answer": "B",
+   "why": "Photography Walk — 18 yoshgacha talabalar uchun bepul."
+  },
+  {
+   "q": "Mr Karimov, who is 68, wants to talk to his grandchildren abroad using a laptop.",
+   "answer": "E",
+   "why": "Computer Skills for Seniors — video qo'ng'iroq qilishni o'rgatadi."
+  },
+  {
+   "q": "Malika wants to improve her spoken English, but she cannot afford to pay for lessons.",
+   "answer": "C",
+   "why": "Conversation Club — bepul, ingliz tilida gaplashish."
+  },
+  {
+   "q": "Anvar wants to learn to play music, but he does not own an instrument.",
+   "answer": "G",
+   "why": "Beginner Guitar — gitarani ijaraga olish mumkin."
+  }
+ ],
+ "hide_bank": true
+}

@@ -1,0 +1,14 @@
+{
+  "id": "speaking-2-07",
+  "title": "Part 2 — Long turn",
+  "kind": "card",
+  "topic": "Describe a celebration that is important in your family or country.",
+  "points": [
+    "what the celebration is",
+    "when and where it happens",
+    "what people do",
+    "why it is important"
+  ],
+  "prep_seconds": 60,
+  "expected_seconds": 120
+}

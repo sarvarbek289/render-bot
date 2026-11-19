@@ -1,0 +1,124 @@
+{
+ "id": "listening-2-01",
+ "title": "Summer Camp Information",
+ "level": "B1",
+ "minutes": 6,
+ "audio": "test1.mp3",
+ "instructions": "Listen to a recorded information message. For each gap (1–6) in the notes, choose the correct answer (A–C).",
+ "blocks": [
+  {
+   "title": "Green Valley Summer Camp — notes",
+   "text": "Quyidagi 6 ta gapni audioga qarab to'ldiring."
+  }
+ ],
+ "questions": [
+  {
+   "q": "The camp starts on ...",
+   "options": {
+    "A": "the fifth of July",
+    "B": "the twelfth of July",
+    "C": "the twentieth of July"
+   },
+   "answer": "B",
+   "why": "«the camp starts on the twelfth of July»."
+  },
+  {
+   "q": "The camp lasts for ...",
+   "options": {
+    "A": "seven days",
+    "B": "fourteen days",
+    "C": "ten days"
+   },
+   "answer": "C",
+   "why": "«It lasts for ten days»."
+  },
+  {
+   "q": "The price per child is ...",
+   "options": {
+    "A": "$240",
+    "B": "$120",
+    "C": "$350"
+   },
+   "answer": "A",
+   "why": "«two hundred and forty dollars per child»."
+  },
+  {
+   "q": "The price does NOT include ...",
+   "options": {
+    "A": "transport",
+    "B": "meals",
+    "C": "equipment"
+   },
+   "answer": "A",
+   "why": "Ovqat va jihozlar kiradi, transport kirmaydi."
+  },
+  {
+   "q": "Every child must bring ...",
+   "options": {
+    "A": "a tent",
+    "B": "a sleeping bag",
+    "C": "a pillow"
+   },
+   "answer": "B",
+   "why": "Chodir va yostiqni lager beradi, uxlash xaltasini bolalar o'zi olib kelishi kerak."
+  },
+  {
+   "q": "The most popular activity is ...",
+   "options": {
+    "A": "climbing",
+    "B": "painting",
+    "C": "canoeing"
+   },
+   "answer": "C",
+   "why": "«The most popular activity every year is canoeing on the lake»."
+  }
+ ],
+ "script": [
+  {
+   "v": "N",
+   "t": "Part two. You will hear an information message about a summer camp. For each question, choose the correct answer. Now listen to the message."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "v": "F1",
+   "t": "Hello, and thank you for calling Green Valley Summer Camp. Here is some important information for parents."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F1",
+   "t": "This year the camp starts on the twelfth of July. It lasts for ten days, and the children go home on the evening of the twenty-first."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F1",
+   "t": "The price is two hundred and forty dollars per child. If you have a second child, you will receive a small discount. The price includes all meals and all equipment, such as life jackets and helmets, but it does not include transport. Parents must bring their children to the camp themselves, because we do not have our own buses."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F1",
+   "t": "The children sleep in tents. We provide the tents and the pillows, but please remember that every child must bring a sleeping bag."
+  },
+  {
+   "pause": 1
+  },
+  {
+   "v": "F1",
+   "t": "The most popular activity every year is canoeing on the lake, so we recommend that you book early. For more information, please visit our website. Thank you for calling, and we hope to see you in July."
+  },
+  {
+   "pause": 4
+  },
+  {
+   "v": "N",
+   "t": "That is the end of part two."
+  }
+ ]
+}

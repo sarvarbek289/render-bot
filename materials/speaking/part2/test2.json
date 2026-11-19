@@ -1,0 +1,14 @@
+{
+  "id": "speaking-2-02",
+  "title": "Part 2 — Long turn",
+  "kind": "card",
+  "topic": "Describe a place you would like to visit.",
+  "points": [
+    "where the place is",
+    "how you learned about it",
+    "what you would do there",
+    "why you want to go"
+  ],
+  "prep_seconds": 60,
+  "expected_seconds": 120
+}

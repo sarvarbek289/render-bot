@@ -1,0 +1,145 @@
+{
+ "id": "listening-3-01",
+ "title": "Why Study Online?",
+ "level": "B2",
+ "minutes": 7,
+ "audio": "test1.mp3",
+ "instructions": "Six people explain why they chose to study online. Match each speaker (1–6) with the reason (A–H). There are two extra reasons.",
+ "bank_title": "Reasons",
+ "bank": {
+  "A": "I live far from the nearest university.",
+  "B": "I wanted to improve my computer skills.",
+  "C": "I needed flexible study hours because of my job.",
+  "D": "Online was the only way to study my subject.",
+  "E": "I wanted to spend less money.",
+  "F": "Someone I know recommended the course.",
+  "G": "I like being in contact with students from other countries.",
+  "H": "I don't feel comfortable in big groups."
+ },
+ "questions": [
+  {
+   "q": "Speaker 1",
+   "answer": "C",
+   "why": "Tungi smenada ishlaydi, vaqti moslashuvchan. Hamkasbi tavsiya qilgan, lekin «the timetable decided it»."
+  },
+  {
+   "q": "Speaker 2",
+   "answer": "A",
+   "why": "Eng yaqin universitet qishlog'idan 400 km uzoqda."
+  },
+  {
+   "q": "Speaker 3",
+   "answer": "G",
+   "why": "Braziliya, Yaponiya, Keniyalik talabalar bilan do'stlashgan."
+  },
+  {
+   "q": "Speaker 4",
+   "answer": "E",
+   "why": "Ijara va yo'l haqi qimmat; faqat kurs to'lovini to'laydi."
+  },
+  {
+   "q": "Speaker 5",
+   "answer": "H",
+   "why": "Ikki yuz kishilik auditoriyalarda uyalib, hayajonlanadi."
+  },
+  {
+   "q": "Speaker 6",
+   "answer": "D",
+   "why": "Dengiz biologiyasini faqat bitta universitet, faqat onlayn o'qitadi."
+  }
+ ],
+ "script": [
+  {
+   "v": "N",
+   "t": "Part three. You will hear six people talking about why they chose to study online. Match each speaker with a reason, A to H. There are two extra reasons which you do not need. Now listen."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "v": "N",
+   "t": "Speaker one."
+  },
+  {
+   "v": "F1",
+   "t": "I could never have attended regular classes. I work night shifts at the hospital, so studying online lets me log in whenever I am awake and have a free hour. A colleague did a similar course last year, and she told me it was good, but honestly, it was the timetable that decided it for me."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Speaker two."
+  },
+  {
+   "v": "M1",
+   "t": "The nearest university is almost four hundred kilometres from my village, and my parents did not want me to move to the capital at the age of eighteen. So I enrolled online, and I can stay at home with my family while I study."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Speaker three."
+  },
+  {
+   "v": "F2",
+   "t": "People often say that online study is lonely, but for me it has been the opposite. In my group there are students from Brazil, Japan and Kenya, and we have become good friends. We even practise our English together on video calls."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Speaker four."
+  },
+  {
+   "v": "M2",
+   "t": "Money was the main issue. Rents in a university town are crazy, and I would have spent a fortune on buses and food. Studying from home, I only pay the course fee. The course is not anything special, but it is cheap, and that is what matters to me."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Speaker five."
+  },
+  {
+   "v": "F3",
+   "t": "I am a bit shy, to be honest. Lecture halls with two hundred students make me nervous, so I looked for something quieter. Studying on my own screen, in my own room, is perfect for me."
+  },
+  {
+   "pause": 3
+  },
+  {
+   "beep": 1
+  },
+  {
+   "v": "N",
+   "t": "Speaker six."
+  },
+  {
+   "v": "M3",
+   "t": "I wanted to study marine biology, but only one university in the country teaches it, and they only offer it online. So really, I had no choice. I am very happy with it, though."
+  },
+  {
+   "pause": 5
+  },
+  {
+   "v": "N",
+   "t": "That is the end of part three."
+  }
+ ]
+}

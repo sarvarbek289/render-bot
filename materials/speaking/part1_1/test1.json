@@ -1,0 +1,11 @@
+{
+  "id": "speaking-1-09",
+  "title": "Part 1.1",
+  "kind": "questions",
+  "questions": [
+    "Have you ever bought clothes online?",
+    "What is your favorite color?",
+    "Do you use computers?"
+  ],
+  "expected_seconds": 90
+}
