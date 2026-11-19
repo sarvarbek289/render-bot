@@ -2681,8 +2681,7 @@ def cleanup_stray(message):
 # ▶️ ISHGA TUSHIRISH
 # =========================
 
-if __name__ == "__main__":
-    class _HealthHandler(BaseHTTPRequestHandler):
+class _HealthHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
         self.send_header("Content-Type", "text/plain; charset=utf-8")
@@ -2716,19 +2715,3 @@ if __name__ == "__main__":
             print(f"⚠️ Telegram bilan aloqa uzildi: {e}")
             print("🔄 Qayta ulanishga urinish...")
             time.sleep(5)
-    print(f"🚀 Multi-Level Academy bot ishga tushdi! @{BOT_USERNAME}")
-
-    while True:
-        try:
-            bot.infinity_polling(
-                skip_pending=True,
-                timeout=60,
-                long_polling_timeout=60,
-                logger_level=20
-            )
-
-        except Exception as e:
-            print(f"⚠️ Telegram bilan aloqa uzildi: {e}")
-            print("🔄 Qayta ulanishga urinish...")
-            import time
-            time.sleep(5)       
