@@ -1306,7 +1306,7 @@ def on_age(message):
     tdelete(message.chat.id, message.message_id)
     t = message.text.strip()
     if not t.isdigit() or not 7 <= int(t) <= 70:
-        temp(uid, "⚠️ Yoshni 5 dan 100 gacha raqam bilan kiriting.")
+        temp(uid, "⚠️ Yoshni 7 dan 700 gacha raqam bilan kiriting.")
         return
     set_user(uid, age=int(t))
     finish_registration(uid)
