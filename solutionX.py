@@ -899,31 +899,34 @@ def send_long(chat_id, lines, limit=3800):
 
 def welcome_body(first_name):
     return (
-        f"👋 Salom, {html.escape(first_name or 'do‘st')}!\n\n"
-        "🎯 Solution X Bot’ga xush kelibsiz — Multilevel (CEFR) imtihonida B2/C1 darajaga erishishda "
-        "sizning shaxsiy AI yordamchingiz! 🎓📚\n\n"
-        "🎁 Platformaning barcha imkoniyatlari hozircha "
-        "TO‘LIQ BEPUL!\n\n"
-        "🚀 Bu yerda siz:\n"
-        "• 🎯 AI Diagnostika orqali zaif nuqtalaringizni 15 daqiqada aniqlaysiz\n"
-        "• 📅 14 kunlik shaxsiy o‘quv rejasiga (Personal Exam Plan) ega bo‘lasiz\n"
-        "• ⚡️ Grammar Test va bo‘limlar bo‘yicha mashqlarni bajarib ballingizni oshirasiz\n"
-        "• 🏆 Do‘stlaringizni taklif qilib, Peshqadamlar reytingida yuqori o‘rinlarni egallaysiz!"
+        "👋 Assalomu alaykum! Solution X botimizga xush kelibsiz!\n\n"
+        "😊 Iltimos, ism va familiyangizni kiriting. Sizni aynan shu ism orqali ro‘yxatdan o‘tkazamiz.\n\n"
+        "✨ O‘qishlaringizga omad tilaymiz!"
     )
 
 
 def welcome_ready(first_name):
-    return welcome_body(first_name) + "\n\n👇 Hoziroq diagnostikadan o‘ting va tayyorgarlikni boshlang:"
+    return (
+        f"👋 Salom, {html.escape(first_name or 'do‘st')}!\n\n"
+        "🎯 Solution X Bot’ga xush kelibsiz — Multilevel (CEFR) imtihonida B2/C1 darajaga erishishda "
+        "sizning shaxsiy AI yordamchingiz! 🎓📚\n\n"
+        "🎁 Platformaning barcha imkoniyatlari hozircha TO‘LIQ BEPUL!\n\n"
+        "🚀 Bu yerda siz:\n"
+        "• 🎯 AI Diagnostika orqali zaif nuqtalaringizni 15 daqiqada aniqlaysiz\n"
+        "• 📅 14 kunlik shaxsiy o‘quv rejasiga (Personal Exam Plan) ega bo‘lasiz\n"
+        "• ⚡ Grammar Test va bo‘limlar bo‘yicha mashqlarni bajarib ballingizni oshirasiz\n"
+        "• 🏆 Do‘stlaringizni taklif qilib, Peshqadamlar reytingida yuqori o‘rinlarni egallaysiz!\n\n"
+        "👇 Hoziroq diagnostikadan o‘ting va tayyorgarlikni boshlang:"
+    )
 
 
-ASK_NAME = ("\n\n📝 Iltimos, ism va familiyangizni kiriting "
-            "(kiritgan nomingiz bilan sizni eslab qolamiz):")
-NAME_TOO_SHORT = "⚠️ Ismingiz juda qisqa! Iltimos, ismingizni to‘liq kiriting."
-NAME_TOO_LONG = "⚠️ Ism juda uzun! Iltimos, {n} belgidan oshirmay kiriting."
-NAME_BAD_CHARS = "⚠️ Ismda faqat harflar bo‘lishi kerak (raqam va belgilarsiz)."
-NAME_MIN_LETTERS = 3
-NAME_MAX_LEN = 60
-PHONE_BTN = "📲 Telefon raqamni ulashish"
+ASK_NAME = ""
+NAME_TOO_SHORT = "✍️ Juda qisqa matn kiritildi (kamida 5 ta harfdan iborat bo‘lsin)."
+NAME_TOO_LONG = "📏 Matn juda uzun bo‘lib ketdi ({n} ta belgidan oshmasin)."
+NAME_BAD_CHARS = "🔤 Iltimos, raqam va maxsus belgilarsiz, faqat harflardan foydalaning."
+NAME_MIN_LETTERS = 5
+NAME_MAX_LEN = 35
+PHONE_BTN = "📱 Telefon raqamni yuborish"
 
 READING_TEXT = (
     "🌟 <b>READING BO‘LIMI (O‘QISH)</b>\n\n"
@@ -1302,7 +1305,7 @@ def on_age(message):
     uid = message.from_user.id
     tdelete(message.chat.id, message.message_id)
     t = message.text.strip()
-    if not t.isdigit() or not 5 <= int(t) <= 100:
+    if not t.isdigit() or not 7 <= int(t) <= 70:
         temp(uid, "⚠️ Yoshni 5 dan 100 gacha raqam bilan kiriting.")
         return
     set_user(uid, age=int(t))
